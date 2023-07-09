@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Nathaniel Leonardson's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Nathaniel Leonardson
+
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -77,9 +77,27 @@ __Pinnacle Management Group__,
 __Math Tutor__, LDSBC
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2019-2021`
+__Service Missionary__, Alabama/Florida
 
+## Strengths
+
+Optimization (Getting thigs done as quickly as possible)
+Routine (If I get into a routine then it is really easy for me to)
+Hard Worker (When it comes to work, I have always been a grinder. I always have tried to put my best effort into the work that I do. This strength has diminished a bit while I have been in college, but one that I have hopes to get back to the level it is normally at.)
+People person (My entire life I have had a very easy time getting along with everyone that I meet from any background)
+Athletic
+
+## Passions
+Tennis
+Hunting
+Fishing
+Video games
+Spanish
+Food
+Love Learning (this is a developing strength as I have not really put the time in for my desire to learn)
+
+When I was growing up I was always complimented as being smart which was a good thing and a bad thing. Good because I was encouraged to get good grades to continue this perception that they had of me. Bad because I received those complements for my natural capabilities, and no effort I had put in previously. This turned into a little bit of a problem where I wouldn't really try to learn as much because I was suppose to be smart. I was suppose to be the kid that knew everything, and if I studied then I wasn't really smart is the misconception that I construed in my mind. 
 
 
 <!-- ### Footer

@@ -60,25 +60,23 @@ __Doordash Delivery Driver__, Rexburg, Idaho
 
 ## Strengths
 
-Optimization (Getting things done as efficiently as possible)
-Adaptability (I am  able to do many different tasks in the same day)
-Hard Worker (When it comes to work, I have always been a grinder. I always have tried to put my best effort into the work that I do. I have the mindset of good, better, best never let it rest until my good is better, and my better, best)
-People person (My entire life I have had a very easy time getting along with everyone that I meet from any background)
-Athletic
-Leadership (I am capable of being a leader, and have been in many leadership positions in the past. I love to lead by example and prove to others that my advice is worth their time)
-Teamwork(I am a team player. If there is a goal that we need to reach as a team, I put in my best effort to boost moral, and make sure we are all on the same page)
-Conflict resolution(I am really good at "putting out the fire". My entire life I have been able to avoid conflict and help others get calm as well)
-Problem Solving(Problem solving is one of my favorite things to do. From solving rubix cubes to math being my favorite subject as a kid problem solving has always been a big part of my life)
+- __Optimization__ (Getting things done as efficiently as possible)
+- __Adaptability__ (I am  able to do many different tasks in the same day)
+- __Hard Worker__ (When it comes to work, I have always been a grinder. I always have tried to put my best effort into the work that I do. I have the mindset of good, better, best never let it rest until my good is better, and my better, best)
+- __People person__ (My entire life I have had a very easy time getting along with everyone that I meet from any background)
+- __Leadership__ (I am capable of being a leader, and have been in many leadership positions in the past. I love to lead by example and prove to others that my advice is worth their time)
+- __Teamwork__ (I am a team player. If there is a goal that we need to reach as a team, I put in my best effort to boost moral, and make sure we are all on the same page)
+- __Conflict resolution__ (I am really good at "putting out the fire". My entire life I have been able to avoid conflict and help others get calm as well)
+- __Problem Solving__ (Problem solving is one of my favorite things to do. From solving rubix cubes to math being my favorite subject as a kid problem solving has always been a big part of my life)
 
 ## Passions
-Tennis
-Hunting
-Fishing
-Video games
-Spanish
-Food
-Love Learning (this is a developing strength as I have not really put the time in for my desire to learn)
-When I was growing up I was always complimented as being smart which was a good thing and a bad thing. Good because I was encouraged to get good grades to continue this perception that they had of me. Bad because I received those complements for my natural capabilities, and no effort I had put in previously. This turned into a little bit of a problem where I wouldn't really try to learn as much because I was suppose to be smart. I had an attitude that I was suppose to be the kid that knew everything, and in my mind if I studied then I wasn't really smart. I have recently been trying to develop a more active  
+- Tennis
+- Hunting
+- Fishing
+- Video games
+- Spanish
+- Food
+- Love Learning
 
 
 <!-- ### Footer

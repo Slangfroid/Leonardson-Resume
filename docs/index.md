@@ -70,13 +70,13 @@ __Doordash Delivery Driver__, Rexburg, Idaho
 - __Problem Solving__ (Problem solving is one of my favorite things to do. From solving rubix cubes to math being my favorite subject as a kid problem solving has always been a big part of my life)
 
 ## Passions
-- Tennis
-- Hunting
-- Fishing
-- Video games
-- Spanish
-- Food
-- Love Learning
+- __Tennis__
+- __Hunting__
+- __Fishing__
+- __Video games__
+- __Spanish__
+- __Food__
+- __Love Learning__
 
 
 <!-- ### Footer

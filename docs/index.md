@@ -16,77 +16,59 @@ title: Nathaniel Leonardson's Resume
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`September 2021- Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
-
+- 3.1 Major GPA
 
 ## Related Experience
 
-### Internships
+### Internship
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`Expected Spring of 2024 and Spring 2025`
+__Company TBD__, United States
+-Hope to get an intership that involves either Machine Learning/Data Science/Web Development/Software Development
+-Get experience in the field
+-Have opportunities to lead and create
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`Summers of 2008-2015`
+__4-H__, Dillon, Montana
 
+`Summers of 2013-2015`
+__Sno Shack__, Dillon, Montana
 
-`2019-2021`
-__Service Missionary__, Alabama/Florida
+`Summer of 2016`
+__Landscaping__, Dillon, Montana
+
+`Summers of 2017 & 2018`
+__Internet Provider Employee__, Dillon, Montana
+
+`Summer of 2018`
+__Eagle Scout Project__, Dillon, Montana
+
+`June 2019-May 2021`
+__Full Time Missionary__, Alabama/Florida
+
+`Summers of 2021 & 2022`
+__House Construction__, Dillon, Montana
+
+`Fall of 2022`
+__Doordash Delivery Driver__, Rexburg, Idaho
 
 ## Strengths
 
-Optimization (Getting thigs done as quickly as possible)
-Routine (If I get into a routine then it is really easy for me to)
-Hard Worker (When it comes to work, I have always been a grinder. I always have tried to put my best effort into the work that I do. This strength has diminished a bit while I have been in college, but one that I have hopes to get back to the level it is normally at.)
+Optimization (Getting things done as efficiently as possible)
+Adaptability (I am  able to do many different tasks in the same day)
+Hard Worker (When it comes to work, I have always been a grinder. I always have tried to put my best effort into the work that I do. I have the mindset of good, better, best never let it rest until my good is better, and my better, best)
 People person (My entire life I have had a very easy time getting along with everyone that I meet from any background)
 Athletic
+Leadership (I am capable of being a leader, and have been in many leadership positions in the past. I love to lead by example and prove to others that my advice is worth their time)
+Teamwork(I am a team player. If there is a goal that we need to reach as a team, I put in my best effort to boost moral, and make sure we are all on the same page)
+Conflict resolution(I am really good at "putting out the fire". My entire life I have been able to avoid conflict and help others get calm as well)
+Problem Solving(Problem solving is one of my favorite things to do. From solving rubix cubes to math being my favorite subject as a kid problem solving has always been a big part of my life)
 
 ## Passions
 Tennis
@@ -96,8 +78,7 @@ Video games
 Spanish
 Food
 Love Learning (this is a developing strength as I have not really put the time in for my desire to learn)
-
-When I was growing up I was always complimented as being smart which was a good thing and a bad thing. Good because I was encouraged to get good grades to continue this perception that they had of me. Bad because I received those complements for my natural capabilities, and no effort I had put in previously. This turned into a little bit of a problem where I wouldn't really try to learn as much because I was suppose to be smart. I was suppose to be the kid that knew everything, and if I studied then I wasn't really smart is the misconception that I construed in my mind. 
+When I was growing up I was always complimented as being smart which was a good thing and a bad thing. Good because I was encouraged to get good grades to continue this perception that they had of me. Bad because I received those complements for my natural capabilities, and no effort I had put in previously. This turned into a little bit of a problem where I wouldn't really try to learn as much because I was suppose to be smart. I had an attitude that I was suppose to be the kid that knew everything, and in my mind if I studied then I wasn't really smart. I have recently been trying to develop a more active  
 
 
 <!-- ### Footer

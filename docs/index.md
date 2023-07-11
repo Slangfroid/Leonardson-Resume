@@ -19,7 +19,7 @@ title: Nathaniel Leonardson's Resume
 `September 2021- Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 3.1 Major GPA
+- 3.1 Major GPA (GPA is usually not a good idea to put in a resume. Instead add clubs or certificats you have/attend!)
 
 ## Related Experience
 
@@ -33,6 +33,7 @@ __Company TBD__, United States
 
 
 ## Service and Work History
+(this section is where you would want more detail. Pick three or four jobs you feel really stand out and create 4 bullet points that explain your roll in that position. It's often best to only include fairly recent job experience unless it's something that really stand out.)
 
 `Summers of 2008-2015`
 __4-H__, Dillon, Montana
@@ -59,7 +60,7 @@ __House Construction__, Dillon, Montana
 __Doordash Delivery Driver__, Rexburg, Idaho
 
 ## Strengths
-
+(It's good to have your strengths listed but the explanations aren't necessary in a resume.)
 - __Optimization__ (Getting things done as efficiently as possible)
 - __Adaptability__ (I am  able to do many different tasks in the same day)
 - __Hard Worker__ (When it comes to work, I have always been a grinder. I always have tried to put my best effort into the work that I do. I have the mindset of good, better, best never let it rest until my good is better, and my better, best)
@@ -70,6 +71,7 @@ __Doordash Delivery Driver__, Rexburg, Idaho
 - __Problem Solving__ (Problem solving is one of my favorite things to do. From solving rubix cubes to math being my favorite subject as a kid problem solving has always been a big part of my life)
 
 ## Passions
+(I like this but if you are to use this resume to apply for jobs pick three that you think would stand out to the company you are applying for)
 - __Tennis__
 - __Hunting__
 - __Fishing__

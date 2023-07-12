@@ -19,8 +19,6 @@ title: Nathaniel Leonardson's Resume
 `September 2021- Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 3.1 Major GPA
-
 ## Related Experience
 
 ### Internship
@@ -34,29 +32,22 @@ __Company TBD__, United States
 
 ## Service and Work History
 
-`Summers of 2008-2015`
-__4-H__, Dillon, Montana
-
-`Summers of 2013-2015`
-__Sno Shack__, Dillon, Montana
-
-`Summer of 2016`
-__Landscaping__, Dillon, Montana
-
 `Summers of 2017 & 2018`
 __Internet Provider Employee__, Dillon, Montana
-
-`Summer of 2018`
-__Eagle Scout Project__, Dillon, Montana
-
-`June 2019-May 2021`
-__Full Time Missionary__, Alabama/Florida
+- Set up internet dishes which includes programming the antennas and positioning them to the tower.
+- Had friendly interactions with customers, and was respectful to their belongings while in their house.
+- Managed my time efficiently and helped plan out to make sure my calendar was full yet manageable.
 
 `Summers of 2021 & 2022`
 __House Construction__, Dillon, Montana
-
+- Learned to be a team player, and find work to do when uninstructed.
+- Lead younger employees, and coached them how to be a good worker. At times I had to get after them to pick up the slack.
+- Adaptable by Working long days when needed and long weeks as well.
 `Fall of 2022`
 __Doordash Delivery Driver__, Rexburg, Idaho
+- Friendly interactions with customers
+- Managed my time efficiently to get the most orders delivered
+- Resolved any miscomunications that happened.
 
 ## Strengths
 
@@ -70,13 +61,9 @@ __Doordash Delivery Driver__, Rexburg, Idaho
 - __Problem Solving__ (Problem solving is one of my favorite things to do. From solving rubix cubes to math being my favorite subject as a kid problem solving has always been a big part of my life)
 
 ## Passions
-- __Tennis__
-- __Hunting__
-- __Fishing__
 - __Video games__
 - __Spanish__
-- __Food__
-- __Love Learning__
+- __Learning__
 
 
 <!-- ### Footer
